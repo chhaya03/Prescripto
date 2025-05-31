@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-# DoctoNet
-=======
-# Prescripto
 
-Prescripto is a web-based appointment booking and management system designed for patients to easily book and view their medical appointments.
+# DoctoNet
+
+
+ DoctoNet is a web-based appointment booking and management system designed for patients to easily book and view their medical appointments.
 
 ---
 
@@ -42,7 +41,7 @@ Prescripto is a web-based appointment booking and management system designed for
 
 ## 📂 Folder Structure
 
-Prescripto/<br>
+ DoctoNet/<br>
 │
 ├── frontend/ # React frontend<br>
 │ ├── src/<br>
@@ -60,4 +59,5 @@ Prescripto/<br>
 │ └── ...<br>
 │
 └── README.md # This file
->>>>>>> 17afc93c25eb34031040b7d753b675db656e4b16
+
+
