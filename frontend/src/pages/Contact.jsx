@@ -22,10 +22,10 @@ const Contact = () => {
             6789 Maple Grove <br /> Apt. 502, Gotham City, USA
           </p>
           <p className=" text-gray-500">
-            Tel: (+91) 123-456-789 <br /> Email: Prescripto@gmail.com
+            Tel: (+91) 123-456-789 <br /> Email: DoctoNet@gmail.com
           </p>
           <p className=" font-semibold text-lg text-gray-600">
-            CAREERS AT PRESCRIPTO
+            CAREERS AT DoctoNet
           </p>
           <p className=" text-gray-500">
             Learn more about our teams and job openings.
