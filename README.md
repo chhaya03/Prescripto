@@ -6,28 +6,36 @@ Prescripto is a web-based appointment booking and management system designed for
 
 ## 🚀 Features
 
-- **Book Appointments:** Patients can select available slots with doctors.
-- **View My Appointments:** Displays a list of upcoming and past appointments.
-- **Doctor Details:** Each appointment shows the doctor’s photo, name, specialization, and address.
-- **Date Formatting:** Appointments show human-friendly dates (e.g., 20 Jan 2025).
-- **Data Management:** Backend stores appointment details, user, and doctor data securely using MongoDB.
+- 🔐 User authentication (Login, JWT-based security)
+- 🧑‍⚕️ Browse doctors by specialization
+- 📅 Book appointments with doctors
+- 📄 View and manage personal appointments
+- 📁 Profile management
+- 🛡️ Admin routes & management
+- 🌩️ Image uploads with Cloudinary
+- 💸 Payment integration with Razorpay & Stripe
+- 🌈 Modern responsive UI using Tailwind CSS
+- 🔔 Notifications via React Toastify
 
----
-
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 ### Frontend:
-- **React** (with React Router)
-- **Tailwind CSS** (for modern styling)
-- **Axios** (for API requests)
-- **React Toastify** (for notifications)
+- React
+- React Router
+- Tailwind CSS
+- React Toastify
+- Axios
 
 ### Backend:
-- **Node.js & Express**
-- **MongoDB & Mongoose**
-- **JWT Authentication** (optional, if implemented)
+- Node.js
+- Express.js
+- MongoDB (via Mongoose)
+- Cloudinary (for image storage)
+- Stripe & Razorpay (payment gateways)
+- Multer (file uploads)
+- JWT Authentication
+- dotenv for environment variables
 
----
 
 ## 📂 Folder Structure
 
